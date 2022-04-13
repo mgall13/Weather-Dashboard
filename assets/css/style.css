@@ -14,3 +14,13 @@
 .forecast-date {
     font-size: 18px;
 }
+
+ul {
+    list-style: none;
+}
+
+li {
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding-left: 10px;
+}
